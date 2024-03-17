@@ -3,7 +3,7 @@
 @section('content')
     <div class="container-fluid">
         <div class="content">
-            <h1>content</h1>
+            <h1>Dashboard</h1>
         </div>
     </div>
 

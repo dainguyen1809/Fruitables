@@ -22,4 +22,4 @@ Route::get('/deltails', [ProductController::class, 'show'])->name('details');
 Route::get('/cart', [CartController::class, 'index'])->name('cart');
 Route::get('/checkout', [CartController::class, 'checkout'])->name('checkout');
 Route::get('/contact', [BlogController::class, 'contact'])->name('contact');
-Route::get('/test', [TestController::class, 'test'])->name('test');
+Route::get('/test', [TestController::class, 'index'])->name('test');

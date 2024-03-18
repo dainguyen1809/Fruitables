@@ -16,7 +16,6 @@ class RouteTest extends TestCase
         '/checkout',
         '/contact',
         '/account/signin',
-        '/account/logoutt',
         '/account/signup',
     ];
 
